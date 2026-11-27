@@ -40,11 +40,7 @@
 
 | Файл | Что внутри |
 |---|---|
-| [docs/stories.md](docs/stories.md) | Роли, MVP, пользовательские истории |
-| [docs/rules.md](docs/rules.md) | Бизнес-правила и переходы статусов |
-| [docs/database.md](docs/database.md) | Таблицы и ER-диаграмма |
-| [docs/api.md](docs/api.md) | Эндпоинты с примерами |
-| [docs/pages.md](docs/pages.md) | Страницы и карта переходов |
+| [docs/architecture.md](docs/architecture.md) | Вся архитектура: роли, правила, база, API, страницы |
 | [docs/ai-errors.md](docs/ai-errors.md) | Ошибки ИИ, найденные при проверке |
 
 Правила проекта для ИИ-помощника: [CLAUDE.md](CLAUDE.md)
